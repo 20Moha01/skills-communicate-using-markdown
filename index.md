@@ -13,3 +13,14 @@
 ``` c++
 int num = 5;
 ```
+
+# TASK LIST
+#### Rocket League Journey
+
+- [x] Reach Bronze
+- [x] Reach Plat
+- [x] Reach Gold
+- [x] Reach Diamond
+- [x] Reach Champion
+- [ ] Reach Grand Champion
+- [ ] Reach Super Sonic Legend
