@@ -9,3 +9,7 @@
 # IMAGES
 ![Image of a Ford Mustang Match E RLE](https://static.wikia.nocookie.net/rocketleague/images/8/8c/Ford_Mustang_Mach-E_RLE_body_icon.png/revision/latest?cb=20211209160814)
 
+# CODING
+``` c++
+int num = 5;
+```
